@@ -1,0 +1,7 @@
+C:\Users\Piotrek WMII\source\repos\ZpoWyklad2_2\ZpoWyklad2_2\bin\Debug\ZpoWyklad2_2.exe.config
+C:\Users\Piotrek WMII\source\repos\ZpoWyklad2_2\ZpoWyklad2_2\bin\Debug\ZpoWyklad2_2.exe
+C:\Users\Piotrek WMII\source\repos\ZpoWyklad2_2\ZpoWyklad2_2\bin\Debug\ZpoWyklad2_2.pdb
+C:\Users\Piotrek WMII\source\repos\ZpoWyklad2_2\ZpoWyklad2_2\obj\Debug\ZpoWyklad2_2.csprojAssemblyReference.cache
+C:\Users\Piotrek WMII\source\repos\ZpoWyklad2_2\ZpoWyklad2_2\obj\Debug\ZpoWyklad2_2.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek WMII\source\repos\ZpoWyklad2_2\ZpoWyklad2_2\obj\Debug\ZpoWyklad2_2.exe
+C:\Users\Piotrek WMII\source\repos\ZpoWyklad2_2\ZpoWyklad2_2\obj\Debug\ZpoWyklad2_2.pdb
